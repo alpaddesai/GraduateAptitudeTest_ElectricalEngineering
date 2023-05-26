@@ -1,8 +1,10 @@
 # Graduate AptitudeTest Electrical Engineering
 
-![image](GraduateAptitudeTest_ElectricalEngineering.jpg)
+![image](GATE_EE_1.JPG)
 
-![image](Gate_EE_Subjects.JPG)
+![image](GATE_EE_2.JPG)
+
+![image](GATE_EE_3.JPG)
 
 ![image](EthicsandExcellence.png)
 
