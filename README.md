@@ -11,5 +11,3 @@
 ![image](USCopyrightCertificate.png)
 
 Reference https://gate.iitk.ac.in/gate_syllabus.html
-
-Additional details reference https://github.com/alpaddesai/DesignEngineering
