@@ -1,4 +1,4 @@
-# Graduate AptitudeTest Electrical Engineering
+# Graduate Aptitude Test Electrical Engineering
 
 ![image](GATE_EE_1.JPG)
 
